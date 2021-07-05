@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Happy Birthday</string>
+    <string name="happy_birthday_text">¡Feliz Cumpleaños, Nona!</string>
+    <string name="from_name">De José</string>
+</resources>
